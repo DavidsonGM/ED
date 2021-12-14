@@ -1,0 +1,4 @@
+-criar as funcoes pop e push para char
+-escanear a linha e armazenar no array
+-criar uma pilha para verificar a correta ultilizacao de parenteses, chaves e colchetes
+-criar uma nova pilha para verificar a sequencia correta(numero operando numero)
